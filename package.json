@@ -1,0 +1,23 @@
+{
+  "name": "gulp-source-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rev": "^7.1.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "http-proxy-middleware": "^0.17.4"
+  },
+  "dependencies": {
+    "browserify": "^14.3.0"
+  }
+}
